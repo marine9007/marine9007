@@ -1,7 +1,7 @@
 # Status:
-- 🔭 I’m currently working on ... Terraform
+- 🔭 I’m currently working on ... Terraform, AKS deployments
 - 🌱 I’m currently learning ... on the fly, iteratively!
-- 👯 I’m looking to collaborate on ... anything...
+- 👯 I’m looking to collaborate on ... anything, it's all pretty easy!
 
 <!--
 **marine9007/marine9007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
