@@ -1,5 +1,5 @@
 # Status:
-- 🔭 I’m currently working on ... Terraform, AKS deployments, GCP deployments (validated)
+- 🔭 I’m currently working on ... Unified Policy Platform for cloud governance. 
 - 🌱 I’m currently learning ... on the fly, iteratively!
 - 👯 I’m looking to collaborate on ... anything, it's all pretty easy!
 
