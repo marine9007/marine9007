@@ -1,6 +1,6 @@
 # Status:
-- 🔭 I’m currently working on ... Unified Policy Platform for cloud governance. 
-- 🌱 I’m currently learning ... on the fly, iteratively!
+- 🔭 I’m currently working on ... Deploying SRE Dashboards and Monitors using terraform. 
+- 🌱 I’m also learning ... on the fly, iteratively!
 - 👯 I’m looking to collaborate on ... anything, it's all pretty easy!
 
 <!--
